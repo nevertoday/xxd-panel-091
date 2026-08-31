@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 091
+# 🦁 XXD Panel 091｜青線の旅帳
 
 ### 一本の青い筆で写真を抑制された物語スケッチへ
 

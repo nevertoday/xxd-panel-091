@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 091
+# 🦁 XXD Panel 091｜블루 라인 여행 앨범
 
 ### 한 자루의 파란 펜으로 사진을 절제된 서사 스케치로 그립니다
 

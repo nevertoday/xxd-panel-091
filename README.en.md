@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 091
+# 🦁 XXD Panel 091｜Blue-Line Travel Album
 
 ### Draw the photograph as a restrained monochrome-blue narrative sketch
 

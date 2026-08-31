@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 091
+# 🦁 XXD Panel 091｜蓝线旅行册
 
 ### 用一支蓝笔，把照片画成克制的叙事速写
 
