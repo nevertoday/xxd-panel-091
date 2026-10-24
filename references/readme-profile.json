@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 091｜Blue-Line Travel Album: redraws only the clues that keep a photo's subject and scene recognisable as a single-colour blue pencil or ballpoint narrative sketch — accurate contours, then directional hatching, cross-hatching, repeated searching lines and changing pen pressure with dry grain and slight indentation woven layer by layer into light, volume and material, never solid fills or soft gradients; key areas like hair, building turns or plant outlines get selective detail while the rest fades into plain natural or warm-white paper; one blue only (cobalt, pen blue, ultramarine or indigo, chosen per photo) and no second colour; a few words in thin, quiet, book-like editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-091 or asks for blue ballpoint sketch, monochrome blue hatching or blue-pen travel sketchbook art from a photo.",
+  "short_description": "蓝线旅行册：只用一支蓝笔的排线和交叉排线，把照片画成观察到足够便停笔的叙事速写",
+  "zh-CN": {
+    "name": "蓝线旅行册",
+    "tagline": "只用一支蓝笔，把照片画成一页观察到足够就停笔的旅行速写。",
+    "look": "先用准确的轮廓线定下主体，再用方向性排线、交叉排线和反复寻找的线条一层层“织”出明暗、体积和材质，看得见干涩颗粒、轻微压痕和笔压变化，不涂黑也没有柔和渐变。头发、建筑转折、器物边缘或植物轮廓等关键处画得细，其余主动简化，线条往外逐渐变少，消失在纸白里。整幅只有一种蓝，会按照片在钴蓝、钢笔蓝、群青、靛蓝里选一种，不加第二种颜色。底子是干净的自然白或极浅暖白，几行纤细、安静、带书籍排印感的小字放在主体旁或空白处。",
+    "traits": ["单色蓝笔", "方向排线", "交叉排线", "寻找线", "选择性细化", "自然纸白"],
+    "good": [
+      "有结构和材质可刻画的主体：老建筑、拱门、旧自行车、一把藤椅",
+      "旅途中的人物或街景：读报的老人、街角咖啡馆、窗台上的猫",
+      "明暗关系清楚的照片：侧光下的人脸、树荫里的长椅、阳光照进的门廊"
+    ],
+    "poor": [
+      "靠色彩打动人的照片：花海、彩色集市、晚霞，这里只用一种蓝",
+      "轮廓模糊、缺少结构的画面：雾、夜景光斑、纯色天空",
+      "想要水彩上色、彩色填充、照片描边滤镜或过度完成的写实素描的需求"
+    ]
+  },
+  "en": {
+    "name": "Blue-Line Travel Album",
+    "tagline": "Draws your photo with a single blue pen as a travel sketch that stops once it has seen enough.",
+    "look": "Accurate contours fix the subject first, then directional hatching, cross-hatching and repeated searching lines weave light, volume and material layer by layer, with visible dry grain, slight indentation and changing pressure, never solid fills or soft gradients. Key areas such as hair, the turns of a building, the edge of an object or a plant's outline are detailed, the rest is deliberately simplified, and the lines thin out until they disappear into the paper. The whole drawing uses one blue only, chosen per photo from cobalt, pen blue, ultramarine or indigo, with no second colour. The ground is clean natural white or very pale warm white, with a few lines of thin, quiet, book-like type beside the subject or in the open space.",
+    "traits": ["Single blue pen", "Directional hatching", "Cross-hatching", "Searching lines", "Selective detail", "Natural paper white"],
+    "good": [
+      "Subjects with structure and texture to render: old buildings, an archway, a vintage bicycle, a rattan chair",
+      "People or street scenes from a trip: an old man reading a paper, a corner café, a cat on a windowsill",
+      "Photos with clear light and shade: a face in side light, a bench in tree shade, sunlight in a doorway"
+    ],
+    "poor": [
+      "Photos that rely on colour: flower fields, colourful markets, sunset skies, since only one blue is used",
+      "Blurry scenes with little structure: fog, night bokeh, plain skies",
+      "Requests for watercolour, colour fills, a photo-trace filter or an over-finished realistic drawing"
+    ]
+  },
+  "ja": {
+    "name": "青線の旅帳",
+    "tagline": "一本の青いペンだけで、十分に見たら筆を止める旅のスケッチとして写真を描きます。",
+    "look": "まず正確な輪郭線で主役を決め、方向のあるハッチング、クロスハッチング、繰り返し探る線で明暗、量感、質感を一層ずつ「織り」上げます。乾いた粒子、わずかな筆圧の凹み、筆圧の変化が見え、塗りつぶしや柔らかなグラデーションは使いません。髪、建物の曲がり角、器物の縁、植物の輪郭などの要所は細かく描き、ほかはあえて簡略にして、線は外へ向かって減り、紙の白に消えていきます。全体は青一色で、写真に合わせてコバルトブルー、万年筆のブルー、ウルトラマリン、インディゴから一つを選び、二色目は加えません。地は清潔な自然の白かごく淡い温かな白で、細く静かな書籍風の書体の数行を主役のそばや余白に置きます。",
+    "traits": ["青ペン一色", "方向のあるハッチング", "クロスハッチング", "探り線", "選んで描き込む", "自然な紙の白"],
+    "good": [
+      "構造や質感を描き込める主役：古い建物、アーチ、古い自転車、籐椅子",
+      "旅先の人物や街の風景：新聞を読むお年寄り、街角のカフェ、窓辺の猫",
+      "明暗のはっきりした写真：横からの光を受けた顔、木陰のベンチ、日の差し込む玄関"
+    ],
+    "poor": [
+      "色で見せる写真：花畑、カラフルな市場、夕焼け空（ここでは青一色だけです）",
+      "輪郭がぼやけ構造の少ない場面：霧、夜景の玉ボケ、無地の空",
+      "水彩の色付け、色の塗りつぶし、写真のトレースフィルター、描き込みすぎた写実デッサンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "블루 라인 여행 앨범",
+    "tagline": "파란 펜 한 자루만으로, 충분히 보았으면 펜을 멈추는 여행 스케치로 사진을 그립니다.",
+    "look": "먼저 정확한 윤곽선으로 주인공을 정하고, 방향성 있는 해칭, 크로스 해칭, 반복해서 더듬는 선으로 명암과 부피, 질감을 한 겹씩 '짜' 나갑니다. 마른 입자, 살짝 눌린 자국, 필압 변화가 보이며, 까맣게 칠하거나 부드러운 그러데이션을 쓰지는 않습니다. 머리카락, 건물의 꺾이는 곳, 사물의 가장자리, 식물 윤곽 같은 핵심 부분은 자세히 그리고 나머지는 일부러 단순하게 두어, 선이 바깥으로 갈수록 줄어 종이의 흰빛 속으로 사라집니다. 그림 전체는 파란색 하나뿐이며, 사진에 맞춰 코발트, 만년필 파랑, 울트라마린, 인디고 중 하나를 고르고 두 번째 색은 넣지 않습니다. 바탕은 깨끗한 자연 흰색이나 아주 연한 따뜻한 흰색이고, 가늘고 조용한 책 조판 같은 서체 몇 줄이 주인공 곁이나 여백에 놓입니다.",
+    "traits": ["파란 펜 한 가지", "방향성 해칭", "크로스 해칭", "더듬는 선", "선택적 묘사", "자연스러운 종이 흰빛"],
+    "good": [
+      "구조와 질감을 묘사할 만한 주인공: 오래된 건물, 아치, 낡은 자전거, 등나무 의자",
+      "여행지의 인물이나 거리 풍경: 신문 읽는 노인, 길모퉁이 카페, 창턱의 고양이",
+      "명암이 분명한 사진: 옆에서 빛을 받은 얼굴, 나무 그늘의 벤치, 햇살이 드는 현관"
+    ],
+    "poor": [
+      "색으로 보여 주는 사진: 꽃밭, 알록달록한 시장, 노을 하늘(여기서는 파란색 하나만 씁니다)",
+      "윤곽이 흐리고 구조가 적은 장면: 안개, 야경 보케, 단색 하늘",
+      "수채 채색, 색 채우기, 사진 따라 그리기 필터, 지나치게 완성된 사실적 소묘를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ألبوم السفر بالخط الأزرق",
+    "tagline": "يرسم صورتك بقلم أزرق واحد مخطّطاً من رحلة، يتوقف حين يكون قد رأى ما يكفي.",
+    "look": "تثبّت خطوط محيطية دقيقة العنصرَ أولاً، ثم يُنسج الضوء والحجم والملمس طبقةً بعد طبقة بتظليل خطي ذي اتجاه وتظليل متقاطع وخطوط تتلمّس طريقها مراراً، مع حبيبات جافة وانضغاط خفيف وتغيّر في ضغط القلم، دون تعبئة مصمتة أو تدرجات ناعمة. تُفصَّل المواضع الأساسية كالشعر وانعطافات المبنى وحافة الشيء ومحيط النبتة، ويُبسَّط الباقي عمداً، فتتناقص الخطوط حتى تختفي في الورق. لا يُستخدم في الرسم كله إلا أزرق واحد، يُختار بحسب الصورة من الكوبالتي أو أزرق الحبر أو الألترامارين أو النيلي، بلا لون ثانٍ. الأرضية أبيض طبيعي نظيف أو أبيض دافئ فاتح جداً، مع بضعة أسطر بحرف رفيع هادئ يشبه طباعة الكتب بجوار العنصر أو في الفراغ.",
+    "traits": ["قلم أزرق واحد", "تظليل خطي ذو اتجاه", "تظليل متقاطع", "خطوط متلمّسة", "تفصيل انتقائي", "بياض ورق طبيعي"],
+    "good": [
+      "عناصر فيها بنية وملمس يستحقان الرسم: مبانٍ قديمة، قوس، دراجة عتيقة، كرسي من الخيزران",
+      "أشخاص أو مشاهد شارع من رحلة: رجل مسنّ يقرأ صحيفة، مقهى على ناصية، قطة على حافة نافذة",
+      "صور واضحة الضوء والظل: وجه في ضوء جانبي، مقعد في ظل شجرة، شمس تدخل مدخلاً"
+    ],
+    "poor": [
+      "صور تعتمد على اللون: حقول الزهور، الأسواق الملوّنة، سماء الغروب، إذ لا يُستخدم إلا أزرق واحد",
+      "مشاهد ضبابية قليلة البنية: الضباب، أضواء الليل المموّهة، السماء السادة",
+      "طلب تلوين مائي أو تعبئة لونية أو فلتر تتبّع للصورة أو رسم واقعي مفرط الاكتمال"
+    ]
+  }
+}
